@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hireup/static/css/main.38a616ab.css",
+    "main.js": "/hireup/static/js/main.89f33cdd.js",
+    "static/media/com.jpg": "/hireup/static/media/com.a52910bc4d565c29860d.jpg",
+    "static/media/coursify.png": "/hireup/static/media/coursify.637da918589dd66de70b.png",
+    "static/media/job.jpg": "/hireup/static/media/job.1320876f0101504125b0.jpg",
+    "static/media/logo.png": "/hireup/static/media/logo.caf86875201a2380827d.png",
+    "static/media/swig.png": "/hireup/static/media/swig.2701ece1a570a92e66b9.png",
+    "index.html": "/hireup/index.html",
+    "main.38a616ab.css.map": "/hireup/static/css/main.38a616ab.css.map",
+    "main.89f33cdd.js.map": "/hireup/static/js/main.89f33cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a616ab.css",
+    "static/js/main.89f33cdd.js"
+  ]
+}
